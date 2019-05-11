@@ -1,0 +1,36 @@
+
+
+    }
+    
+    
+    h1, h2, h3{
+   background-color: cyan
+
+
+    }
+    
+    
+    .menu {
+      
+        text-align: center;
+        
+
+    }
+    .menu li {
+        background-color: #0b6d8d;
+        display: inline-block;
+        list-style: none;
+    }
+   
+    .body {
+        width: 80%;
+        margin:auto;
+
+
+
+
+    }
+    .menu a {
+        color:white;
+    }
+    
