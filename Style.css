@@ -11,26 +11,27 @@
     
     
     .menu {
-      
-        text-align: center;
-        
+        padding-top: 20px; 
+        padding-bottom: 20px;
+        background-color: #0b6d8d;
+        width: 100%;
 
     }
     .menu li {
-        background-color: #0b6d8d;
+       
         display: inline-block;
-        list-style: none;
+        list-style-type: none;
     }
    
-    .body {
+    .container{
+        
         width: 80%;
         margin:auto;
-
-
-
-
     }
+
+    
     .menu a {
         color:white;
     }
+        
     
