@@ -1,37 +1,33 @@
-
-
-    }
-    
-    
-    h1, h2, h3{
-   background-color: cyan
-
-
-    }
-    
-    
-    .menu {
-        padding-top: 20px; 
-        padding-bottom: 20px;
-        background-color: #0b6d8d;
-        width: 100%;
-
-    }
-    .menu li {
+body {
+    margin: 0;
+}
+      
+h1, h2, h3{
+    background-color: white;
+}
        
-        display: inline-block;
-        list-style-type: none;
-    }
-   
-    .container{
-        
-        width: 80%;
-        margin:auto;
-    }
+.menu {
+    padding-top: 3px; 
+    padding-bottom: 3px;
+    background-color: #0b6d8d;
+}
 
-    
-    .menu a {
-        color:white;
-    }
-        
-    
+.menu ul {
+    padding-left: 0;
+}
+
+.menu li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.menu a {
+    color:white;
+}
+
+
