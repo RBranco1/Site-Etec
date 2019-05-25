@@ -5,11 +5,12 @@ body {
 h1, h2, h3{
     background-color: white;
 }
-       
+
 .menu {
-    padding-top: 3px; 
-    padding-bottom: 3px;
-    background-color: #0b6d8d;
+    
+    
+    background:#0b6d8d url("menubg-blue.png") repeat-x;
+   
 }
 
 .menu ul {
@@ -19,8 +20,17 @@ h1, h2, h3{
 .menu li {
     display: inline-block;
     list-style-type: none;
+    padding: 13px 20px 13px 20px;
+    border-left: 1px solid #258fc1;
+    
 }
 
+.table li:hover{
+    background-color: #0b506c;
+
+
+
+}
 .container {
     width: 80%;
     margin: auto;
@@ -28,6 +38,7 @@ h1, h2, h3{
 
 .menu a {
     color:white;
+    text-decoration: none;
 }
 
 
